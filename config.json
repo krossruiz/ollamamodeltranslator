@@ -1,0 +1,7 @@
+{
+  "translator_model": "qwen2.5:7b-instruct",
+  "user_language": "English",
+  "model_languages": {
+    "windffooxxyang1130764/mesugaki:0.6b": "Japanese"
+  }
+}
