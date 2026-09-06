@@ -1,7 +1,10 @@
 {
-  "translator_model": "qwen2.5:7b-instruct",
+  "translator_model": "deepseek-r1:1.5b",
   "user_language": "English",
   "model_languages": {
-    "windffooxxyang1130764/mesugaki:0.6b": "Japanese"
+    "windffooxxyang1130764/mesugaki:0.6b": "Japanese",
+    "llama3.2:latest": "English",
+    "llama3.2unlimitedtokenoutput:latest": "english",
+    "deepseek-r1:1.5b": "english"
   }
 }
